@@ -1,1 +1,1 @@
- https://kolodkaart.github.io/rsschool-cv/
+  https://kolodkaart.github.io/rsschool-cv/
